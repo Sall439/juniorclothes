@@ -1,0 +1,27 @@
+ <footer>
+        <div class="content">
+            <div class="cont">
+                <h1>Nos coordonnes</h1> <br> 
+
+                <p>Contacts: 706141613</p>
+
+                <p>Adresse email: salljunior439@gmail.com</p>
+
+                <div class="icone">
+                    <p><i class="fab fa-facebook"></i></p>
+                    <p><i class="fab fa-twitter"></i></p>
+                    <p><i class="fab fa-instagram"></i></p>
+                    <p><i class="fab fa-snapchat"></i></p>
+                </div>
+               
+            </div>
+            <div class="cont">
+                <h1>Ou Nous trouver?</h1>
+
+                <p>Rufisque OUEST Cite SONACOS derriere <br>Maison du Feu 12eme Gainde Villa 71</p>
+            </div>
+            
+        </div>
+
+        <h2> &copy;Copyright Saliou Sall | 2024 | Tout droits reserves</h2>
+    </footer>
