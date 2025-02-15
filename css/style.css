@@ -383,9 +383,28 @@ footer .icones .icon p:hover {
 }
 
 
+@media screen and (max-width: 768px) {
+    footer .container {
+        flex-direction: column;
+    }
+
+    footer .adresses, .icones {
+        width: 100%;
+    }
+
+    footer .adresses p {
+        justify-content: center;
+    }
+
+    footer .adresses p i {
+        margin-right: 10px;
+    }
+}
+
+
 @media screen and (max-width: 430px){
     nav .logo {
-        font-size: 18px;
+        font-size: 15px;
     }
 
     header h1{
@@ -420,12 +439,18 @@ footer .icones .icon p:hover {
         margin-bottom: 50px;
     }
 
-    #avis .slider-btn {
-        display: none;
-    }
 
     footer .container {
         flex-direction: column;
         gap: 50px;
+    }
+
+    footer .adresses, .icones {
+        width: 100%;
+    }
+
+    footer .adresses p {
+        align-items: center;
+        font-size: 15px;
     }
 }
